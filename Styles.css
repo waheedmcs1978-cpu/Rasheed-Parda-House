@@ -1,14 +1,14 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
-  background: #f9f9f9;
+  background: linear-gradient(135deg, #ffe6f0, #d4fcd4); /* Pink to light green gradient */
   color: #333;
   text-align: center;
 }
 
 header {
   background: linear-gradient(45deg, #c62828, #ff9800);
-  color: Pink;
+  color: white;
   padding: 1.5rem 0;
 }
 
